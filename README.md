@@ -1,6 +1,8 @@
 # Blox Fruits Script (with GUI) - The Ultimate Solution for Enhanced Gameplay  
 
 Discover a new level of adventure in *Blox Fruits* with the **Blox Fruits Script**, equipped with a cutting-edge GUI (Graphical User Interface) that ensures effortless customization and control. Whether you're grinding for fruits, leveling up, or engaging in high-stakes PvP, this script provides unrivaled functionality to supercharge your gaming experience.  
+![1new](https://github.com/user-attachments/assets/aa104870-9c88-46ca-9718-ed917d870a6f)
+
 
 The **Blox Fruits Script** is the perfect companion for players seeking to elevate their gameplay. Automate tedious tasks, unlock powerful features, and optimize your efficiency—all through a sleek and intuitive interface.  
 
