@@ -27,8 +27,6 @@ The **Blox Fruits Script** is the perfect companion for players seeking to eleva
 3. **Load the Script**: Copy the script into your executor, run it, and access the GUI for full control 🖱️.  
 4. **Customize and Dominate**: Adjust features to suit your playstyle and conquer *Blox Fruits* like never before! 🌟  
 
-## ⚠️ Important Notice:  
-Third-party scripts in Roblox games may result in penalties or bans. Use them responsibly and always comply with Roblox's terms of service. This tool is provided for **educational purposes only** and is used at your own discretion.  
 
 ## License:  
 This project operates under the **MIT License**. For additional details, refer to the [LICENSE](LICENSE) file.  
